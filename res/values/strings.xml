@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">DemoChooseContactBySys</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="et_tip">Here show the contact</string>
+    <string name="btn_ok">Click to choose contact</string>
+    
+</resources>
